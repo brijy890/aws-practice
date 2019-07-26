@@ -12,8 +12,8 @@ class CLSAthena {
             'region'  => 'ap-south-1',
             'version' => 'latest',
             'credentials' => [
-                'key'    => 'AKIAJ7UOAG7JNQB2ECJA',
-                'secret' => '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',
+                'key'    => 'xxxxxxxxxxxxxxxxxx',
+                'secret' => 'xxxxxxxxxxxxxxx',
             ]
         ]);
     }
