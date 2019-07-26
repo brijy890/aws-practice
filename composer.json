@@ -1,0 +1,12 @@
+{
+    "name": "brijbhushanyadav/elasticsearch",
+    "authors": [
+        {
+            "name": "brij",
+            "email": "brijbhushan.y@pepperfry.com"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.107"
+    }
+}
